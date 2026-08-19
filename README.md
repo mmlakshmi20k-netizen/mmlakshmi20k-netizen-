@@ -1,10 +1,1 @@
-👋 Hi, I'm Mangalakshmy
-⌨️ Typing animation
-👩‍💻 About Me
-🔗 LinkedIn + Portfolio
-💻 Tech Stack
-🚀 Projects
-📊 GitHub Stats
-🛠️ Tools
-📈 Contribution graph
-👀 Visitor counter
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmlakshmi20k-netizen&show_icons=true)
