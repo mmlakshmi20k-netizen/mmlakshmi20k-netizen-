@@ -14,3 +14,8 @@ GitHub Activity
 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmlakshmi20k-netizen)
+
+
+👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=mmlakshmi20k-netizen&label=Profile%20Views&color=blue)
