@@ -1,1 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmlakshmi20k-netizen&show_icons=true)
+ GitHub Stats
+
+🐙 GitHub Profile: [mmlakshmi20k-netizen](https://github.com/mmlakshmi20k-netizen)
+
+💻 Repositories: Check my projects on GitHub  
+🚀 Currently learning: Python & Full Stack Development
