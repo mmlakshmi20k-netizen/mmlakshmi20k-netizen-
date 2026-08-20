@@ -6,4 +6,3 @@ GitHub Activity
 🚀 Currently learning: Python, Java & Full Stack Development
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mmlakshmi20k-netizen)](https://git.io/streak-stats)
