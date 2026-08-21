@@ -5,15 +5,14 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Python+Web+Developer;Full+Stack+Development+Enthusiast;Always+Learning+New+Technologies)
 
 ---
+## 🙋‍♀️ About Me
 
-## 👩‍💻 About Me
 
-🎓 Computer Science and Engineering Student
-💻 Interested in **Python & Full Stack Web Development**
-🌱 Currently improving my skills in **Python, Java, HTML, CSS & JavaScript**
-🚀 Interested in building real-world projects and learning new technologies
-🤝 Open to collaboration, internships and innovative projects
-
+- 🎓 Computer Science and Engineering Student
+- 💻 Interested in **Python & Full Stack Web Development**
+- 🌱 Currently improving my skills in **Python, Java, HTML, CSS & JavaScript**
+- 🚀 Interested in building real-world projects and learning new technologies
+- 🤝 Open to collaboration, internships and innovative projects
 ---
 
 ## 🔗 Connect With Me
