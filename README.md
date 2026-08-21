@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Mangalakshmy!
 
-### 💻 Aspiring Python Full Stack Developer
+### 💻 Aspiring Python Web Developer | Full Stack Development Enthusiast
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aspiring+Python+Web+Developer;Full+Stack+Development+Enthusiast;Always+Learning+New+Technologies)
 
 ---
 
